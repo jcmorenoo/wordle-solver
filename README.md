@@ -6,6 +6,8 @@ I used to play the game a lot, and I recently got curious how it works. So I att
 
 ## Use this solver
 
+[Node js](https://nodejs.org/en/) is required to run the script.
+
 Running `node solve.js` will log the answer for today and tomorrow's puzzle on the console.
 
 ## How I found it
